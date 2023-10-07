@@ -2,6 +2,10 @@
 
 This is one of the basic porject from [John Smilga React Course](https://react-projects.netlify.app/)
 
+## Live Website
+
+[Birthday Buddy Live](https://birthdayybuddy.netlify.app/)
+
 ## Figma URL
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
